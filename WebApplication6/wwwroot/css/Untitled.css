@@ -48,6 +48,3 @@ a {
         color:white;
         transition:color 1s,transform;
     }
-.x{
-    transform:translate(390px,-50px);
-}
