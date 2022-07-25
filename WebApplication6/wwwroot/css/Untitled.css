@@ -21,7 +21,11 @@ body {
     .topbutton:hover {
         text-decoration: none;
     }
+.In {
+    -moz-border-radius: 5px;
+    -webkit-border-radius: 5px;
 
+}
     .topbutton:hover {
         color: gray;
     }
@@ -36,10 +40,14 @@ a {
     }
 .text {
     color: #96f3ff;
-    margin-left:20px;
-    margin-top:20px;
+    margin-left: 20px;
+    margin-top: 20px;
+    text-align: center;
 }
     .text:hover {
         color:white;
         transition:color 1s,transform;
     }
+.x{
+    transform:translate(390px,-50px);
+}
